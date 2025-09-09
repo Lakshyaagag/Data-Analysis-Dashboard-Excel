@@ -12,7 +12,7 @@ store can understand their customers and grow more sales in 2023 & 2024.
 
 - Compare the sales and orders using single chart.
 
-. Which month got the highest sales and orders?
+- Which month got the highest sales and orders?
 
 - Who purchased more - Men or Women?
 
@@ -26,4 +26,20 @@ store can understand their customers and grow more sales in 2023 & 2024.
 
 - Highest selling category?
 
-- Percentage of Total Orders delivered
+- Percentage of Total Orders delivered?
+
+- Dashboard Interaction <a href="https://github.com/Lakshyaagag/Data-Analysis-Dashboard-Excel/blob/main/Data%20analysis%20dashboard.png">View Dashboard</a>
+
+## Process
+
+- Verify data for any missing values and anomalies, and sort out the same.
+
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+
+- Created pivot tables according to the questions asked.
+
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+<img width="1167" height="475" alt="Data analysis dashboard" src="https://github.com/user-attachments/assets/4afb60e5-9c96-4da1-91e2-3a501e179e4e" />
+
